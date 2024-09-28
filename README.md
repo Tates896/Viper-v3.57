@@ -5,9 +5,15 @@
 
 <strong>NB:<strong/> This repo also generates session ID for all bots using whiskeysockets/baileys
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<br/>QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<br/>QR- 
+### 1. <a href="https://github.com/RAGNAROK-BOY/Viper-v3.57/fork"><img src="https://img.shields.io/badge/FORK-Red" alt="Click Here to fork Viper-v3" width="70"></a>
+## `Generate Pair Code For Session`
+ 
+[`Viper-v3 Pairing Using Render`](https://badboi.onrender.com/)
+
+[`Viper-v3 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
 <p align="center">
+   
    <a href="https://github.com/RAGNAROK-BOY">
     <img src="https://i.imgur.com/9f8ucRW.jpeg" width="500">
      
@@ -20,6 +26,9 @@
 
 FORK MY REPO WILL YA
 
+### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
+
+### . <a href="https://dashboard.toystack.ai/login"><img src="https://img.shields.io/badge/DEPLOY ON TOYSTACK AI -black" alt="Click Here to Deploy on TOYSTACK AI" width="120"></a>
 
 Now Deploy
     <br>
