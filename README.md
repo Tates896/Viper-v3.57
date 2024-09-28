@@ -16,7 +16,7 @@ Viper-v3.57 𝘽𝙤𝙩 is a bug bot from badboi and gabby created by <a href="
 ### 1. <a href="https://github.com/RAGNAROK-BOY/Viper-v3.57/fork"><img src="https://img.shields.io/badge/FORK-Red" alt="Click Here to fork Viper-v3" width="70"></a>
 ## `Generate Pair Code For Session`
  
-[`Viper-v3 Pairing Using Render`](https://badboi.onrender.com/)
+[`Viper-v3 Pairing Using Render`](https://viper-session-id.onrender.com)
 
 [`Viper-v3 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
 <p align="center">
