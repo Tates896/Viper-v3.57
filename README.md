@@ -26,9 +26,9 @@
 
 FORK MY REPO WILL YA
 
-### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
+### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="130"></a>
 
-### . <a href="https://dashboard.toystack.ai/login"><img src="https://img.shields.io/badge/DEPLOY ON TOYSTACK AI -black" alt="Click Here to Deploy on TOYSTACK AI" width="120"></a>
+### . <a href="https://dashboard.toystack.ai/login"><img src="https://img.shields.io/badge/DEPLOY ON TOYSTACK AI -black" alt="Click Here to Deploy on TOYSTACK AI" width="130"></a>
 
 Now Deploy
     <br>
@@ -66,7 +66,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Viper v3.56](https://github.com/RAGNAROK-BOY/Viper v3.57) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Viper-v3.56](https://github.com/RAGNAROK-BOY/Viper-v3.57) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
