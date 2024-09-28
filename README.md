@@ -1,11 +1,18 @@
-# Viper v3.56-Session-Generator
-- Kindly star my repo
-- Fork and edit as you wish
-- Deploy to your favourite hosting server eg Heroku or Render or self hosting
+# Viper-v3.57
+   ## Hi there 👋
 
-<strong>NB:<strong/> This repo also generates session ID for all bots using whiskeysockets/baileys
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<br/>QR- 
+<h1 align="center">ꪶVIPER V3ꫂ<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/A8LuCoD.jpeg" />
+</p>
+
+<p align="center">
+Viper-v3.57 𝘽𝙤𝙩 is a bug bot from badboi and gabby created by <a href="king Badboi 👑" target="_blank">Gabby</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____Viper+v3_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+BAD+BOI;REALESE+DATE+14%2F7%2F2024." alt="Typing SVG" /></a>
+</p>
+
 ### 1. <a href="https://github.com/RAGNAROK-BOY/Viper-v3.57/fork"><img src="https://img.shields.io/badge/FORK-Red" alt="Click Here to fork Viper-v3" width="70"></a>
 ## `Generate Pair Code For Session`
  
