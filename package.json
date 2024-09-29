@@ -1,7 +1,7 @@
 {
-  "name": "BADBOI-V5",
+  "name": "Viper-v3.57",
   "version": "0.0.1",
-  "description": "Anita Is a Simple WA Bot Using Library Baileys",
+  "description": "viper Is a Simple WA Bot Using Library Baileys",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
