@@ -16,7 +16,7 @@ global.botname = '🕷Viper-v3.56-BUG🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Gabbimaru\n\nContact: +263719153710'
+global.author = 'Gabbimaru\n\nContact: +2348104909316'
 
 //console view/theme
 global.themeemoji = '☠️'
